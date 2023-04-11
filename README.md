@@ -1,3 +1,3 @@
 # SubComponents
 
-A description of this package.
+Submodule for the Gitsubmodules project
