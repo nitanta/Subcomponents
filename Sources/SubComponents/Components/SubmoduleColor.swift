@@ -13,4 +13,5 @@ final public class SubmoduleColor {
     public static let blue = "Blue"
     public static let pink = "Pink"
     public static let green = "Green"
+    public static let yellow = "Yellow"
 }
