@@ -10,4 +10,5 @@ import Foundation
 final public class SubmoduleColor {
     public static let black = "Black"
     public static let white = "White"
+    public static let blue = "Blue"
 }
