@@ -12,4 +12,5 @@ final public class SubmoduleColor {
     public static let white = "White"
     public static let blue = "Blue"
     public static let pink = "Pink"
+    public static let green = "Green"
 }
